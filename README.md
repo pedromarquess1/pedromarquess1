@@ -1,12 +1,6 @@
-# Olá, eu sou o Pedro Marques! 👋
+# Pedro Henrique Marques
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Em_Evolução-brightgreen?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Foco-Back_End-blue?style=for-the-badge" alt="Foco">
-  <img src="https://img.shields.io/badge/Instituição-FIAP-red?style=for-the-badge" alt="Instituição">
-</p>
-
-Sou estudante de **Engenharia de Software na FIAP** (1º Semestre) e aspirante a **Engenheiro de Software Back-End**. O meu objetivo é construir sistemas escaláveis, performáticos e limpos, aplicando os fundamentos da ciência da computação e da engenharia no ecossistema de desenvolvimento web.
+Sou estudante de **Engenharia de Software na FIAP** (1º Semestre) e com foco em ser **Engenheiro de Software Back-End**. O meu objetivo é construir sistemas escaláveis, performáticos e limpos, aplicando os fundamentos da ciência da computação e da engenharia no ecossistema de desenvolvimento web.
 
 Acredito que um bom desenvolvedor back-end não domina apenas sintaxe, mas sim **arquitetura, lógica e resolução de problemas**. Por isso, tenho focado fortemente em entender o que acontece por baixo dos panos nas requisições, manipulação de dados e ciclo de vida de uma aplicação.
 
@@ -15,16 +9,10 @@ Acredito que um bom desenvolvedor back-end não domina apenas sintaxe, mas sim *
 ### 🎓 Formação Acadêmica & Desenvolvimento
 
 * **Graduação:** Engenharia de Software – FIAP *(Previsão de conclusão: 2029)*
-* **Foco de Estudos Atual:** * Estrutura de dados e Algoritmos.
-  * Programação Orientada a Objetos (POO) aplicada a cenários reais.
-  * Desenvolvimento de APIs RESTful e consumo de microsserviços.
-  * Gerenciamento de dependências e ambientes isolados.
 
 ---
 
 ### 🛠️ Stack Tecnológica & Ferramentas
-
-Minha caixa de ferramentas é focada em construir soluções sólidas para o lado do servidor:
 
 #### **Linguagens & Frameworks**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -42,23 +30,12 @@ Minha caixa de ferramentas é focada em construir soluções sólidas para o lad
 
 ### 🎯 Projetos em Destaque (Portfólio Back-End)
 
-#### 🚀 [API de Consulta e Filtro de Cardápios (FastAPI & POO)](SEU_LINK_DO_REPOSITORIO_AQUI)
+#### 🚀 [API de Consulta e Filtro de Cardápios (FastAPI & POO)](https://github.com/pedromarquess1/api-restaurantes-fastapi.git)
 * **Descrição:** Uma API robusta construída em Python que atua como uma camada intermediária. Ela consome dados de microsserviços externos e centraliza cardápios de grandes redes de fast-food. Os dados brutos são tratados e estruturados usando os pilares da Programação Orientada a Objetos (POO).
 * **Destaques Técnicos:** * Implementação de parâmetros de consulta dinâmicos (`Query parameters`) para filtragem inteligente.
   * Validação rigorosa de tipos de dados usando as capacidades nativas do `Pydantic`.
   * Geração e exposição automática de documentação Swagger UI integrada para testes dinâmicos.
   * Uso de isolamento de escopo e pacotes com ambientes virtuais (`venv`).
-
-*📂 Em breve: APIsREST desenvolvidas em Node.js com Express e persistência de dados utilizando bancos de dados.*
-
----
-
-### 📊 Estatísticas de Código
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB&layout=compact&langs_count=7&theme=dark" alt="Linguagens Mais Usadas" height="160" />
-</p>
 
 ---
 
@@ -66,5 +43,5 @@ Minha caixa de ferramentas é focada em construir soluções sólidas para o lad
 
 Estou sempre aberto a oportunidades de estágio, projetos acadêmicos desafiadores e troca de conhecimento técnico!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-maarques)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phmarquesdepaula@gmail.com)

@@ -24,6 +24,7 @@ Acredito que um bom desenvolvedor back-end não domina apenas sintaxe, mas sim *
 
 #### **Ferramentas, Cloud & Práticas**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -33,16 +34,13 @@ Acredito que um bom desenvolvedor back-end não domina apenas sintaxe, mas sim *
 
 ### 🎯 Projetos em Destaque (Portfólio Back-End)
 
-#### 🚀 [API de Consulta e Filtro de Cardápios (FastAPI & POO)](https://github.com/pedromarquess1/api-restaurantes-fastapi.git)
-* **Descrição:** Uma API robusta construída em Python que atua como uma camada intermediária. Ela consome dados de microsserviços externos e centraliza cardápios de grandes redes de fast-food. Os dados brutos são tratados, validados e estruturados aplicando boas práticas de Programação Orientada a Objetos (POO).
+#### 🚀 [Weather App - API de Clima Real-Time (Node.js, Express & CORS)](https://github.com/pedromarquess1/weather-app.git)
+* **Descrição:** Uma aplicação Full Stack com arquitetura Monorepo que consome dados climáticos em tempo real. O backend atua como um servidor intermediário (proxy) seguro para blindar e gerenciar a chave de acesso da API externa do OpenWeather, enquanto o frontend consome essa API customizada de forma assíncrona.
 * **Destaques Técnicos:** 
-  * Implementação de parâmetros de consulta dinâmicos (`Query parameters`) para filtragem inteligente de dados.
-  * Validação rigorosa de tipos de dados e estruturação de schemas usando as capacidades nativas do `Pydantic`.
-  * Geração e exposição automática de documentação interativa via Swagger UI.
-  * Uso de isolamento de escopo, gerenciamento de dependências e ambientes virtuais (`venv`).
-* **Próximos Passos do Projeto:** 
-  * Adicionar persistência de dados com SQLite e SQLAlchemy.
-  * Implementar cobertura de testes unitários com `pytest`.
+  * Desenvolvimento de rotas REST estruturadas no **Node.js** utilizando o micro-framework **Express**.
+  * Segurança de dados sensíveis utilizando **variáveis de ambiente (dotenv)**, impedindo o vazamento de chaves privadas no GitHub.
+  * Configuração de políticas de **CORS** para gerenciar a comunicação segura de origens distintas entre plataformas Cloud.
+  * Deploy e integração contínua (CI/CD) distribuída: Backend hospedado no **Render** e Frontend na **Vercel**.
 
 ---
 
